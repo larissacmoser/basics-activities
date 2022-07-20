@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro HTML</title>
+    <link rel="stylesheet" href="./css/styles.css">
+
+</head>
+<body>
+    <header>
+        <h1>MINHA PÁGINA</h1>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+    </header>
+    <div><img src="./IMG_20220620_145208611 (1).jpg"></div>
+    
+    <main>
+        <section>
+            
+            <table border="1px">
+                <tr>
+                    <th>NOME</th>
+                    <th>IDADE</th>
+                    <th>E-MAIL</th>
+                    <th>CIDADE</th>
+                    <th>ESTADO</th>
+                </tr>
+                <tr>
+                    <td>Larissa Cristina Moser</td>
+                    <td>23 anos</td>
+                    <td><a href="mailto:larissacristinamoser2799@gmail.com" style="text-decoration:none;color: black;">larissacristinamoser2799@gmail.com</a></td>
+                    <td>Igrejinha</td>
+                    <td>Rio Grande do Sul</td>
+                </tr>
+            </table>
+        
+        </section>
+        <section>
+            <h3>Nome do programa de formação:</h3>
+            <p>Starter full stack web developer</p>
+            <h3>O que te define:</h3>
+            <p>Meu <strong>comprometimento</strong>, minha <strong>disciplina</strong> e minha mais profunda <strong>dedicação</strong> aos estudos</p>
+            <h3>Conhecimentos em programação:</h3>
+            <p>Tenho conhecimento em linguagem C, HTML, CSS e JavaScript</p>
+            <h3>Onde quer chegar:</h3>
+            <p>Pretendo adquirir sólidos conhecimentos para exercer minha profissão de desenvolvedora em plenitude. Estou sempre em busca de novos conhecimentos e a como aprendê-los a colocá-los em prática. Meu objetivo é ser uma profissional reconhecida em minha área e com a Growdev, esse sonho se tornará ainda mais possível.</p>
+
+            
+        </section>
+        
+        
+    </main>
+    
+    
+</body>
+</html>
