@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desenvolvimento front-end</title>
+    <link rel="icon" type="image/x-icon" href="./download.jpg">
+</head>
+<body>
+    <header>
+        <h1>DESENVOLVIMENTO FRONT-END</h1>
+    </header>
+    <main>
+        <section>
+            <h2>O QUE É DESENVOLVIMENTO FRONT-END?</h2>
+            <img src="./code-1076536_1280-1024x574.jpg" style="width:200px;height:200px;">
+            <p>O desenvolvimento front-end é responsável por trabalhar com a parte de programação relativa a interface gráfica da experiência do usuário.</p>
+            <hr>
+            <h2>O QUE FAZ UM DESENVOLVEDOR FRONT-END</h2>
+            <img src="./Figura-1-Desenvolvimento-frontend.png" style="width:300px;height:200px;">
+            <p>O desenvolvedor front-end é responsável por “dar vida” à interface. Trabalha com a parte da aplicação que interage diretamente com o usuário. Por isso, é importante que esse desenvolvedor também se preocupe com a experiência do usuário. Na parte de estudo, este profissional foca em HTML (linguagem de marcação), CSS (linguagem de estilo) e JavaScript (linguagem de script/programação).</p>
+            <hr>
+            <h2>PRINCIPAIS TECNOLOGIAS UTILIZADAS NO FRONT-END</h2>
+            <img src="./276_post_13688.jpg" style="width:350px;height:200px;">
+            <p>HTML, CSS e JavaScript</p>
+            <hr>
+            <a href="https://www.totvs.com/blog/developers/front-end/">Link do conteúdo</a>
+        
+        
+        </section>
+    </main>
+    
+</body>
+</html>
